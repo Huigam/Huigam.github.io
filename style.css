@@ -1,0 +1,8 @@
+.container {
+	width: 720px;
+	margien: 0 auto;
+}
+
+ul > li {
+	background-color: gray;
+}
